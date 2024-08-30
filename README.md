@@ -1,6 +1,8 @@
 # private_gitlab_notifier_dashboard
 
-A new Flutter project.
+`kenneth-hung/private-gitlab-notifier`的儀錶板。
+
+實現Merge Request、新留言的系統通知，並查看歷史紀錄
 
 ## Getting Started
 
